@@ -1,3 +1,18 @@
 * {
     font-family: 'Roboto', sans-serif;
 }
+body{
+    background-color: black;
+    color: white;
+}
+#navbarContainer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+footer{
+    background-color: chartreuse;
+}
